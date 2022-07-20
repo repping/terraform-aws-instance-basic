@@ -1,0 +1,10 @@
+.terraform
+.terraform.lock.hcl
+myzen-repping.code-workspace
+*.tfstate
+*.backup
+tmp
+tf.log
+modules
+*.png
+*.tiff
